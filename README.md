@@ -1,9 +1,9 @@
 <h1> Hi! My name is Rafael Viana. </h1>
 
 <div>
-  <a href="https://github.com/rafael2208">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=rafael2208&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael2208&layout=compact&langs_count=7&theme=react" />
+  <a href="https://github.com/Rafael2208">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael2208&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2208&layout=compact&langs_count=7&theme=react" />
 
   
 </div>
@@ -22,10 +22,11 @@
 </div>
   <br><a href="https://www.youtube.com/channel/UCSawC0irKSG8W05zahr1i9w" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
  
-  ![Snake animation](https://github.com/rafael2208/rafael2208/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Rafael2208/Rafael2208/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafael2208&repo=rafael2208&theme=react)](https://github.com/rafael2208/rafael2208)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rafael2208&repo=Rafael2208&theme=react)](https://github.com/Rafael2208/Rafael2208)
