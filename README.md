@@ -20,11 +20,7 @@
     
    
  
-  ![Snake animation](https://github.com/Rafael2208/Rafael2208/blob/output/github-contribution-grid-snake.svg)
- 
-
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rafael2208&repo=Rafael2208&theme=react)](https://github.com/Rafael2208/Rafael2208)
+  ![Snake animation](https://github.com/rafael2208/rafael2208/blob/output/github-contribution-grid-snake.svg)
 
 
  </div>
