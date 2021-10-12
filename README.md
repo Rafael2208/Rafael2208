@@ -1,9 +1,9 @@
 <h1> Hi! My name is Rafael Viana. </h1>
 
 <div>
-  <a href="https://github.com/Rafael2208">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael2208&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2208&layout=compact&langs_count=7&theme=react" />
+  <a href="https://github.com/rafael2208">
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=rafael2208&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael2208&layout=compact&langs_count=7&theme=react" />
 
   
 </div>
@@ -28,4 +28,4 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafael2208&repo=rafael2208&theme=react)](https://github.com/Rafael2208/Rafael2208)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafael2208&repo=rafael2208&theme=react)](https://github.com/rafael2208/rafael2208)
