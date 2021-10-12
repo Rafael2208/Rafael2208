@@ -18,12 +18,11 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     
-    </div>
-     <br>
+   </div>
  
   ![Snake animation](https://github.com/Rafael2208/Rafael2208/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+
  
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rafael2208&repo=Rafael2208&theme=react)](https://github.com/Rafael2208/Rafael2208)
 
