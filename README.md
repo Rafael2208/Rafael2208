@@ -20,11 +20,6 @@
     
     
 </div>
- <div>
-    
- 
-    ![Snake animation](https://github.com/Rafael2208/Rafael2208/blob/output/github-contribution-grid-snake.svg)
-  </div>
-  
+
  
 
