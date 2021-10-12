@@ -19,11 +19,7 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     
    </div>
-  <br>
-  <div>
- 
-  ![Snake animation](https://github.com/rafael2208/rafael2208/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  
 
  
 
