@@ -18,8 +18,15 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     
-    
+    </div>
+     <br><a href="https://www.linkedin.com/in/ellen-maria-da-silva-caldas-4824b01a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafael2208/rafael2208/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rafael2208&repo=Rafael2208&theme=react)](https://github.com/Rafael2208/Rafael2208)
+
 
  
 
