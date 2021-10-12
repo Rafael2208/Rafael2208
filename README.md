@@ -24,8 +24,8 @@
   <a href="https://www.instagram.com/caldasflamejantes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    
  
-  ![Snake animation](https://github.com/Rafael2208/Rafael2208/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafael2208/rafael2208/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rafael2208&repo=Rafael2208&theme=react)](https://github.com/Rafael2208/Rafael2208)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafael2208&repo=rafael2208&theme=react)](https://github.com/Rafael2208/Rafael2208)
