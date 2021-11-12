@@ -1,8 +1,23 @@
-  <div style="display: inline_block"  align="center">
+ ##
+ ##
+ 
+ <div style="display: inline_block"  align="center">
 <h1> <strong> Olá, eu sou o Rafael Viana! <strong> </h1>
   </div>
-
-<div style="display: inline_block"  align="center">
+  
+ ##
+  
+  <div ><h4>Contatos e Meus Projetos No GitHub:</h4></div>
+  
+  <div style="display: inline_block"  align="center">
+    
+  
+  <a href="https://www.linkedin.com/in/rafaelviana2208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:rafaelviana544@yahoo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://github.com/Rafael2208?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+" target="_blank"></a>
+      
+      
   <a href="https://github.com/Rafael2208">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael2208&show_icons=true&theme=flag-india&react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael2208&layout=compact&langs_count=7&theme=flag-india&react" />
